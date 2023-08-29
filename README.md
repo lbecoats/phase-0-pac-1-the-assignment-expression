@@ -171,3 +171,12 @@ assignment was successful. For that to work, the baby will need to prove that it
 can "look up" the variable assignment of who "ma-ma" points to. The baby will
 need to learn the last of our _essential expressions_: the variable lookup
 expression!
+
+
+
+
+git commands
+git clone- makes a copy of the repository
+git add- stages file for commit " walking up to the picture taken"
+git commit- Takes the snapshot of our code " Takes the picture"
+git push- pushes changes back to repository
